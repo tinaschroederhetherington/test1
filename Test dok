@@ -1,1 +1,8 @@
 Testdokument beskriver min testprocedure for dette projekt
+Funktionel test der skal gennemføres ved hver release:
+- exploratory test af e2e ecenarier
+- unittest
+- integrationstest
+Non-funktionel test der skal gennemføres ved hver release:
+- sikkerhedstest, sårbarhed
+- loadtest
